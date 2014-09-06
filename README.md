@@ -7,12 +7,15 @@ This is a headline
 ==================
 And this is a subhead
 ---------------------
-And this is some text.  And this is a new line.
+And this is some text.      And this is a new line. (according to wikipedia but apparently not)
+This is a new line?
 
-And this is a new paragraph. And this is *italic* and this is **bold**. And this is 'code font'. What are the escape characters?
+And this is a new paragraph. And this is *italic* and this is **bold**. And this is `code font`. What are the escape characters?
 * This is bulleted list item 1.
 * Item 2.
 * *Item 3 is italic.*
+
+
 1. Numbered list item 1.
 2. Item 2.
 <table>
